@@ -4,11 +4,11 @@ As a software engineer,I plan to build a native Android HR management app called
 Leave Request Tracker, Local Data Storage, Simple Login Screen 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://www.loom.com/share/c2e2740d2169463a88a5e946fc0902a1
 
 # Development Environment
 
-I used Visual Studio Code as my code editor along with kotlin. 
+I will use Visual Studio Code as my code editor along with kotlin language. Though i used python to write helloworld. 
 
 
 
