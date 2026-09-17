@@ -4,7 +4,7 @@ As a software engineer,I plan to build a native Android HR management app called
 Leave Request Tracker, Local Data Storage, Simple Login Screen 
 
 
-[Software Demo Video] https://www.loom.com/share/c2e2740d2169463a88a5e946fc0902a1
+[Software Demo Video] https://www.loom.com/share/92ff4437d04a4707a9953e4a1877b0d7
 
 # Development Environment
 
